@@ -1,0 +1,26 @@
+{
+    "name": "@sidharthchh/urlb64touint8array",
+    "version": "0.0.1",
+    "main": "index.ts",
+    "description": "A javscript utility function which converts the base 64 safe encoded string to UInt8Array. Originally written at https://github.com/gbhasha/base64-to-uint8array",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com:sidharthchh/base64-to-uint8array.git"
+    },
+    "keywords": [
+        "base64, array, base, convert, uint8, url, uint8array"
+    ],
+    "author": "Sidharth Chhawchharia <sidharthchh@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/sidharthchh/base64-to-uint8array/issues"
+    },
+    "homepage": "https://github.com/sidharthchh/base64-to-uint8array#readme",
+    "devDependencies": {
+        "browserify": "^16.0.0",
+        "uglify-js": "^3.3.10"
+    }
+}
